@@ -1,0 +1,30 @@
+#home, #about, #resume, #projects, #contact {
+    height : 800px;
+    display: inline-block;
+    width: 100%;
+    background: #161415 ;
+    background-size: cover !important;
+    text-align: center;
+}
+
+
+h1, .margin{
+    width: 25%;
+    margin: 80px;
+    margin-left: 35%;
+    text-align: center;
+    cursor: pointer;
+}
+
+h1 {
+    border-radius: 30px;
+    border: 2px #ffffff;
+}
+
+h1:hover {
+    color: chartreuse;
+}
+
+h1,h2,h3 {
+    color: #ffffff
+}
